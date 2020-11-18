@@ -1,5 +1,5 @@
 {
-"transactions":[
+"transactions":[{
  "bank_transaction":[
     {
         "id":1,
@@ -14,6 +14,7 @@
         "transection_id":"422424245"
         }
    ]
+}
 ]
 
 
